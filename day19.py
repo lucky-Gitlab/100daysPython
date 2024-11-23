@@ -26,3 +26,26 @@ x , y , z = courses
 print(x)
 print(y)
 print(z)
+
+#Print different variables
+a = 'lucky'
+b = 'iitian'
+print(a,b)
+
+#print different  variables 
+a = "lucky "
+b = 'is  '
+c = ' beautiful '
+print(a+b+c)
+
+#print different variables
+a = 'lucky'
+b = 'is'
+c = 'beautiful'
+print(a+b+c)
+ # print different variable
+
+a = 'I'
+b = 'an'
+c = 'iitian'
+print(a,b,c)
