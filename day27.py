@@ -5,3 +5,8 @@ print("dreams" in sentence )
 
 text = "i have started my new journey with python language to strong my resume "
 print("lucky" in text)
+
+# use it in as if statement
+read = 'books are so beautiful things which can change the world'
+if "beautiful" in read :
+ print("'yes', beautiful is present")
