@@ -10,3 +10,8 @@ print("lucky" in text)
 read = 'books are so beautiful things which can change the world'
 if "beautiful" in read :
  print("'yes', beautiful is present")
+
+#not present 
+othertxt = '''palwal is the city in which i spent my chilhood and currently Im working 
+in benguluru  '''
+print("lucky" not in othertxt)
